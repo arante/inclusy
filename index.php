@@ -8,7 +8,7 @@ include 'partials/header.php';
 	<div class="wrapper">
 		<h1>Inclusy Bank</h1>
 
-		<a href="https://m.me/inclusy">
+		<a href="https://m.me/136105417165279">
 		    Message us on Facebook
 		 </a>
 	</div>
