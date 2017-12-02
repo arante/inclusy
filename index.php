@@ -7,12 +7,8 @@ include 'partials/header.php';
 
 	<div class="container text-center">
 
-		<h1>Virtual Loan Officer</h1>
-
 		<img id="logo" src="img/logo.png">
 
-		<h3>Do a pre-qualification today, it will only take a couple of minutes.</h3>
-		
 		<!-- messenger bot id: 136105417165279 -->
 
 		<script>
