@@ -1,0 +1,23 @@
+body {
+	background-color: lightgrey;
+}
+
+body > div#wrapper {
+	background-color: #fff;
+}
+
+footer > div {
+	padding: 20px;
+}
+
+/*
+ *
+ * Brandname
+ *
+ */
+
+img#logo {
+	width: 50%;
+	margin: 25px auto;
+	border-radius: 50%;
+}
